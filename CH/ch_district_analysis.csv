@@ -1,0 +1,4 @@
+state,district,month,age_0_5,age_5_17,age_18_greater,demo_age_5_17,demo_age_17_,bio_age_5_17,bio_age_17_,E,DU,BU,U,T,activity_ratio,zero_month_ratio,avg_monthly_enrolment,monthly_valatility,peak_load_ratio,biometric_burden,update_dominant,enrollment_update_balance,DEI,ASS,UBS,SRS
+Chandigarh,chandigarh,1,94,13,2,57.0,566.0,226,285,109,623.0,511,1134.0,1243.0,1.0,0.0,466.14285714285717,0.4251814470205924,1.5496125789467399,0.46351371496720334,1,0.03895700760515288,0.5684404091483737,0.25,0.25,0.75
+Chandigarh,mohali,6,0,1,0,0.0,0.0,1,1,1,0.0,2,2.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,1,0.3333333333333333,0.7,0.75,0.75,0.25
+Chandigarh,rupnagar,9,1,0,0,0.0,6.0,1,16,1,6.0,17,23.0,24.0,1.0,0.0,1.5,0.0,1.0,0.6666666666666666,1,0.0625,0.9001074938574938,0.7494625307125307,0.4393365751997221,0.25
