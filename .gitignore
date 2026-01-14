@@ -1,0 +1,15 @@
+# Ignore all CSV files by default (raw data)
+*.csv
+
+# Exceptions: Allow analysis and final score files
+!*analysis.csv
+!*final_scores.csv
+
+# Keep Jupyter notebooks
+!*.ipynb
+
+# Ignore other potential large files
+*.zip
+*.rar
+__pycache__/
+.ipynb_checkpoints/
