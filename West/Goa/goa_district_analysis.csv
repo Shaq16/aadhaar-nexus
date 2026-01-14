@@ -1,0 +1,3 @@
+state,district,month,age_0_5,age_5_17,age_18_greater,demo_age_5_17,demo_age_17_,bio_age_5_17,bio_age_17_,E,DU,BU,U,T,activity_ratio,zero_month_ratio,avg_monthly_enrolment,monthly_valatility,peak_load_ratio,biometric_burden,update_dominant,enrollment_update_balance,DEI,ASS,UBS,SRS
+Goa,north goa,1,42,2,18,20.0,303.0,469,279,62,323.0,748,1071.0,1133.0,1.0,0.0,237.28571428571428,0.4763096485573441,1.7133405421256163,0.6902196514309478,1,0.0304418745303594,0.6,0.25,0.75,0.75
+Goa,south goa,1,35,8,5,20.0,327.0,277,188,48,347.0,465,812.0,860.0,1.0,0.0,204.33333333333334,0.4382065749623076,1.5384186235228483,0.6215190536013401,1,0.031089922401988133,0.7,0.75,0.25,0.25

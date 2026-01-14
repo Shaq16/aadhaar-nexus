@@ -1,0 +1,2 @@
+state,district,total_months,active_months,total_E,total_DU,total_BU,total_U,total_T,avg_monthly_enrolment,monthly_volatility,peak_load_ratio,sum_age_0_5,sum_age_5_17,zero_months,activity_ratio,zero_month_ratio,biometric_burden,update_dominant,enrollment_update_balance,access,responsiveness,inclusion,stability,visibility,DEI,ASS,UBS,SRS
+Lakshadweep,lakshadweep,11,11,237.0,1426.0,7621,9047.0,9284.0,21.545454545454547,0.42753486419517034,1.5296208530805686,221.0,15.0,0,1.0,0.0,0.8423786890681993,1,0.025527789745799223,0.75,0.5,0.5,0.5,1.0,0.65,0.5,0.5,0.5
