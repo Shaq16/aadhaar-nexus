@@ -4,6 +4,7 @@
 # Exceptions: Allow analysis and final score files
 !*analysis.csv
 !*final_scores.csv
+!district_equity_all_india.csv
 
 # Keep Jupyter notebooks
 !*.ipynb
